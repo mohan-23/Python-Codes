@@ -1,6 +1,6 @@
 # method (Using For Loop)
 # A Prime Number is a natural number greater than 1 that can be divided by only 1 and number itself.
-n = 7
+n = 9
 count = 0
 for i in range(2, n//2):
     print(i)

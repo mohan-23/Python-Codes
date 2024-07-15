@@ -2,7 +2,7 @@
 # A Fibonacci series is a series in which next number is a sum of previous 
 #two numbers.
 
-n = 5
+n = 8
 first, second = 0, 1
 
 for i in range(n):
